@@ -3031,13 +3031,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #000;
-  background-color: #FAE100;
-  border-color: #FDF7BE;
+  background-color: #235347;
+  border-color: #000;
 }
 .btn-primary:hover {
-  color: #fff;
-  background-color: #FDF7BE;
-  border-color: #FAE100;
+  color: #000;
+  background-color: #FFF;
+  border-color: #235347;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11322,7 +11322,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #151F6D 0%, #007FA3 100%);
+  background: linear-gradient(0deg, #3FFFB2 0%, #E4F5EE 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -11342,7 +11342,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #65f0ad 0%, #0e9453 100%);
+  background: linear-gradient(0deg, #3FFFB2 0%, #E4F5EE 100%);
 }
 header.masthead .bg-circle-1 {
   height: 90rem;
